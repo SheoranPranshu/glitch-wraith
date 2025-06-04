@@ -14,7 +14,7 @@
 ### 👤 Who am I?
 
 ```txt
-A developer with a knack for the unknown.
+A student with a knack for the unknown.
 Exploring the edges of Android custom ROMs and the web.
 Curious. Driven. And always a bit mysterious.
 ```
