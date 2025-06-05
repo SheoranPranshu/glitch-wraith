@@ -39,7 +39,7 @@ Curious. Driven. And always a bit mysterious.
 ### 🌌 Find Me in the Shadows
 
 - 🌍 [glitchwraith.vercel.app](https://glitchwraith.vercel.app/)
--  [<i class="fab fa-youtube"></i>](https://www.youtube.com/@sheoran.pranshu)
+- [Youtube](https://www.youtube.com/@sheoran.pranshu)
 ---
 
 <div align="center">
