@@ -26,7 +26,8 @@ Curious. Driven. And always a bit mysterious.
 - 📱 **Custom ROM development**  
 - 🌐 **HTML enthusiast**  
 - 🎯 Forever learning: "Wanna study"
-
+- 😂 Use AI
+  
 ---
 
 ### ✨ Featured Project
