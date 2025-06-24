@@ -56,16 +56,6 @@
 
 ---
 
-### 📊 My GitHub Activity
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=glitch-wraith&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="glitch-wraith's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitch-wraith&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="glitch-wraith's Top Languages" />
-  <img width="96%" src="https://streak-stats.demolab.com?user=glitch-wraith&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="glitch-wraith's GitHub Streak" />
-</p>
-
----
-
 ### ✨ Featured Project
 
 <p align="center">
