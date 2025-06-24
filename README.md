@@ -24,7 +24,7 @@ Curious. Driven. And always a bit mysterious.
 ### 🛠️ What I Do
 
 - 📱 **Custom ROM development**  
-- 🌐 **HTML enthusiast**  
+- 🌐 **WEB enthusiast**  
 - 🎯 Forever learning: "Wanna study"
 - 😂 Use AI
   
