@@ -46,7 +46,7 @@
     <td align="center" width="33%">
       <h4>Interests</h4>
         <p>
-          <a href="#"><img src="https://img.shields.io/badge/AOSP-Kernel-blue.svg?style=for-the-badge&logo=android&logoColor=white"></a>
+          <a href="#"><img src="https://img.shields.io/badge/AOSP-blue.svg?style=for-the-badge&logo=android&logoColor=white"></a>
           <a href="#"><img src="https://img.shields.io/badge/UI/UX-Design-purple.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
           <a href="#"><img src="https://img.shields.io/badge/Automation-Scripts-orange.svg?style=for-the-badge&logo=powershell&logoColor=white"></a>
         </p>
