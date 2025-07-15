@@ -32,7 +32,6 @@
     <td align="center" width="33%">
       <h3>Android Ecosystem</h3>
       <img src="https://img.shields.io/badge/AOSP-3DDC84?style=flat-square&logo=android&logoColor=white" alt="AOSP">
-      <img src="https://img.shields.io/badge/LineageOS-167C80?style=flat-square&logo=lineageos&logoColor=white" alt="LineageOS">
       <img src="https://img.shields.io/badge/Recovery-TWRP-607D8B?style=flat-square&logo=android&logoColor=white" alt="TWRP">
       <img src="https://img.shields.io/badge/ADB-FCC624?style=flat-square&logo=android&logoColor=black" alt="ADB">
     </td>
@@ -51,10 +50,10 @@
 ### 🔮 Current Obsessions
 
 ```diff
-! Building neural interfaces for Android automation
-+ Exploring WebGPU for browser-based ROM tools
-# Designing glitch-art inspired UI components
-- Optimizing kernel builds for Snapdragon 8 Gen 3
+! Buildbotting Roms
++ Maintaining Derp
+# Designing thumbnails via Canva
+- Using AI
 ```
 
 ---
@@ -80,9 +79,6 @@
   </a>
   <a href="https://t.me/glitch_wraith">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://discord.gg/your-invite">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
 
