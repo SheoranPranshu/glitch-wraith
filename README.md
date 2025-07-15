@@ -100,3 +100,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:4f46e5&height=150&section=footer&fontSize=20&fontColor=ffffff&desc=Compiling%20reality...&descAlignY=75&animation=fadeIn" alt="footer" />
 </div>
+
+---
