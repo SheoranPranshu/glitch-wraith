@@ -12,7 +12,7 @@
 ```diff
 + Navigating the bleeding edge where hardware meets code
 ! Building digital experiences that breathe through silicon
-# Transforming raw code into living interfaces
++ Transforming raw code into living interfaces
 ```
 
 ---
@@ -52,7 +52,7 @@
 ```diff
 ! Buildbotting Roms
 + Maintaining Derp
-# Designing thumbnails via Canva
++ Designing thumbnails via Canva
 - Using AI
 ```
 
