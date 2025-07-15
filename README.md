@@ -61,9 +61,7 @@
 ### 🌟 Project Showcase
 
 <div align="center">
-  <h3><a href="https://github.com/glitch-wraith/Building-Custom-Rom">Building Custom ROM</a></h3>
-  <p>Scripts and Guide for making a custom rom.</p>
-  
+  <h3><a href="https://github.com/glitch-wraith/Building-Custom-Rom">Building Custom ROM</a></h3>  
   <a href="https://github.com/glitch-wraith/Building-Custom-Rom">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=glitch-wraith&repo=Building-Custom-Rom&theme=nightowl&show_owner=true&border_radius=20&border_color=7e22ce&show_description=true" alt="ROM Builder" width="80%">
   </a>
