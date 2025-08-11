@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:ec4899&height=280&section=header&text=glitch-wraith&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Digital%20Alchemist&descAlignY=70&descSize=30" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:ec4899&height=280&section=header&text=SheoranPranshu&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Digital%20Alchemist&descAlignY=70&descSize=30" alt="header" />
 </div>
 
 <div align="center">
@@ -61,9 +61,9 @@
 ### 🌟 Project Showcase
 
 <div align="center">
-  <h3><a href="https://github.com/glitch-wraith/Building-Custom-Rom">Building Custom ROM</a></h3>  
-  <a href="https://github.com/glitch-wraith/Building-Custom-Rom">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=glitch-wraith&repo=Building-Custom-Rom&theme=nightowl&show_owner=true&border_radius=20&border_color=7e22ce&show_description=true" alt="ROM Builder" width="80%">
+  <h3><a href="https://github.com/sheoranpranshu/Building-Custom-Rom">Building Custom ROM</a></h3>  
+  <a href="https://github.com/sheoranpranshu/Building-Custom-Rom">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sheoranpranshu&repo=Building-Custom-Rom&theme=nightowl&show_owner=true&border_radius=20&border_color=7e22ce&show_description=true" alt="ROM Builder" width="80%">
   </a>
 </div>
 
@@ -75,7 +75,7 @@
   <a href="https://glitchwraith.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://www.youtube.com/@sheoran.pranshu">
+  <a href="https://www.youtube.com/@sheoranpranshu">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
   </a>
   <a href="https://t.me/glitch_wraith">
@@ -93,7 +93,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitch-wraith&layout=compact&theme=nightowl&border_color=7e22ce&langs_count=8" alt="Top Languages" width="55%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheoranpranshu&layout=compact&theme=nightowl&border_color=7e22ce&langs_count=8" alt="Top Languages" width="55%">
 </div>
 
 ---
