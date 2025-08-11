@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:ec4899&height=280&section=header&text=SheoranPranshu&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Digital%20Alchemist&descAlignY=70&descSize=30" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:ec4899&height=280&section=header&text=PranshuSheoran&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Digital%20Alchemist&descAlignY=70&descSize=30" alt="header" />
 </div>
 
 <div align="center">
@@ -88,7 +88,7 @@
 ### 📊 Code Chronicles
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glitch-wraith&show_icons=true&theme=nightowl&border_color=7e22ce&include_all_commits=true" alt="Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=sheoranpranshu&show_icons=true&theme=nightowl&border_color=7e22ce&include_all_commits=true" alt="Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=glitch-wraith&theme=nightowl&border=7e22ce" alt="Streak" width="48%">
 </div>
 
